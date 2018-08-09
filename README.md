@@ -1,4 +1,4 @@
-# AlphaZero_Gomoku-tensorflow
+# AlphaZero_connect6-tensorflow
 
 Forked from [junxiaosong/AlphaZero_Gomoku](https://github.com/junxiaosong/AlphaZero_Gomoku) with some changes:  
 
