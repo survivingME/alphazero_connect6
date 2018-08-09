@@ -7,7 +7,7 @@ Forked from [junxiaosong/AlphaZero_Gomoku](https://github.com/junxiaosong/AlphaZ
 * a GUI by python
 
 ## Usage
-To play with the AI
+To play with the AI(there's no available model now)
 
 	$ python human_play.py
 	
